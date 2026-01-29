@@ -7,7 +7,7 @@ tte
 
 ## sintaxe
 neofetch | tte waves
-echo "Olá, $(whoami)! Sistema:  $(cat /etc/os-release)" | tte decrypt
+echo "Olá, $(whoami)! Sistema:  $(cat /etc/os-release)" | tte decrypt 
 
 # ver ajuda geral:
 tte --help
