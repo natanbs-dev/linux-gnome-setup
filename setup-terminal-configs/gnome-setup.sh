@@ -10,6 +10,6 @@ sudo powerprofilesctl set performance
 
 # 3. Swappiness
 echo "Definindo vm.swappiness para 10..."
-sudo sysctl vm.swappiness=10
+sudo sysctl vm.swappiness=5
 
 echo "Configuração concluída com sucesso!"
